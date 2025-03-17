@@ -1,0 +1,1 @@
+.\mediacreationtool.exe /Eula Accept /Retail /MediaArch x64 /MediaLangCode es-ES /MediaEdition Enterprise
